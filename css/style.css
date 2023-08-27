@@ -241,4 +241,6 @@ img {
 
 #info {
     padding: 10px 10px 10px 10px;
+    font-size: 20px;
+    font-family: 'Inconsolata', monospace;
 }
